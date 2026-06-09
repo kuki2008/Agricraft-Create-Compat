@@ -1,0 +1,13 @@
+{
+  "itemGroup.agcraftcompat": "Example Mod Tab",
+  "block.agcraftcompat.example_block": "Example Block",
+  "item.agcraftcompat.example_item": "Example Item",
+
+  "agcraftcompat.configuration.title": "AgriCraftCreateCompat Configs",
+  "agcraftcompat.configuration.section.agcraftcompat.common.toml": "AgriCraftCreateCompat Configs",
+  "agcraftcompat.configuration.section.agcraftcompat.common.toml.title": "AgriCraftCreateCompat Configs",
+  "agcraftcompat.configuration.items": "Item List",
+  "agcraftcompat.configuration.logDirtBlock": "Log Dirt Block",
+  "agcraftcompat.configuration.magicNumberIntroduction": "Magic Number Text",
+  "agcraftcompat.configuration.magicNumber": "Magic Number"
+}

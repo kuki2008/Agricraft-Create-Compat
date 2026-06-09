@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.kuki2008.agricraft_create_compat.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CreateHarvesterMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
