@@ -23,3 +23,5 @@ Available on [Modrinth](https://modrinth.com/mod/agricraft-create-compat-by-kuki
 ## License
 
 MIT
+
+### Please credit if reused!
