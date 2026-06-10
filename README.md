@@ -12,7 +12,7 @@ Compatibility addon between Create and AgriCraft Reloaded for NeoForge 1.21.1.
 
 ## Downloads
 
-Available on [Modrinth](https://modrinth.com/mod/agricraft-create-compat-by-kuki) and [CurseForge](https://www.curseforge.com/minecraft/mc-mods/agricraft-create-compat).
+Available on [Modrinth](https://modrinth.com/mod/agricraft-create-compat-by-kuki), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/agricraft-create-compat) and in [releases](https://github.com/kuki2008/Agricraft-Create-Compat/releases).
 
 ## Dependencies
 
